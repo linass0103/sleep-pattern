@@ -1,2 +1,5 @@
 
-# 추가 설치가 필요한 라이브러리 없음
+streamlit
+pandas
+plotly
+mne
